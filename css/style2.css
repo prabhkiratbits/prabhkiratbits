@@ -1,0 +1,29 @@
+body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;
+background: #DCDCDC;
+}
+
+
+a {text-decoration: none; color: #333; border-bottom: 3px solid #0068FF;}
+a:hover {color: #0068FF}
+
+.container {margin: 0 auto; width: 1200px; padding: 6px 6px 6px; overflow: auto;}
+hr {border-bottom: 3px solid #0068FF;}
+
+.meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px;}
+.meta a:hover {color: #333;}
+
+.inline-list {margin: 0; padding: 0;}
+
+footer .inline-list li {list-style: none; margin-left: 2px;}
+footer a {border: none; color: #0068FF;}
+footer {margin: 0 auto;bottom: 2%;padding: 20px 0 0 0;}
+
+.head{ width: auto; padding:10px;background-color:#7393B3;color:white;}
+
+.myTable {background-color:#DCDCDC;border-collapse:collapse; }
+.myTable th { background-color:#B7C3D0;width:20%; }
+.myTable td, .myTable th { padding:5px;border:1px solid #000; }
+
+.expTable { border-collapse:collapse;  }
+.expTable td, .expTable th { padding:5px;border:1px solid #000; }
+
